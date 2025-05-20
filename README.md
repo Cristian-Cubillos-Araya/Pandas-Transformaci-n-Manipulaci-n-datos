@@ -13,7 +13,7 @@
 * Aplicación de funciones personalizadas con ```.apply()```.
 * Reemplazo de valores con ```.map()``` y ```.replace()```.
 ## Agrupamiento y resumen
-* Agrupamiento con .groupby().
+* Agrupamiento con ```.groupby()```.
 * Estadísticas descriptivas usando ```.mean()```, ```.sum()```, ```.count()```.
 
 # Requisitos
